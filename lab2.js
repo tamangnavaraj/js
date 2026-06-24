@@ -11,6 +11,11 @@ marks.forEach(function(mark, index) {
 });
 
 // Calculate average
+
+let average = sum / marks.length;
+let average = sum / marks.length;
+let average = sum / marks.length;
+let average = sum / marks.length;
 let average = sum / marks.length;
 
 // Display average
